@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123447560905",
+    "firebase_url": "https://afriartisans-ed79b.firebaseio.com",
+    "project_id": "afriartisans-ed79b",
+    "storage_bucket": "afriartisans-ed79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123447560905:android:81b5a8b10da6ec02f45b18",
+        "android_client_info": {
+          "package_name": "com.example.afriartisans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123447560905-jlo7gs50e7buq4lkme91hnnednhg5s6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afriartisans",
+            "certificate_hash": "0c227cf69fb2d9eb0ed0abf695cc862fe96fcd52"
+          }
+        },
+        {
+          "client_id": "123447560905-a3ovomir3n3qiv83j7965p70078tl1p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmnyL91G2LX-Ze-4VQOwAG69f6DAvv4BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123447560905-a3ovomir3n3qiv83j7965p70078tl1p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
